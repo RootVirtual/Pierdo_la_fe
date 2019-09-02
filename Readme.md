@@ -12,6 +12,7 @@ Una de las celdas es específica, para mandar 0 o 1 para encender y apagar un le
   - 'B' apaga el led.
 
 
+
 +Desde Arduino:
 
 Recibe la trama por Serial, con el control de inicio de trama.
