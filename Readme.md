@@ -2,7 +2,7 @@
 
 El programa "Pierdo la fe" viene dado por una cita de LLuis M., cuyas declaraciones acababan en la decisión de dedicarse a plantar tomates.
 
-+ Desde Processing:
++Desde Processing:
 
 Se manda por Serial una trama de x bytes (en este caso 64), con un byte de control de inicio de trama (255).
 
